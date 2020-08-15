@@ -272,7 +272,7 @@ h4 {
 .contact {
   color: #d1d1d1;
 }
-.fa-github, .fa-linkedin {
+.contact .fa-github, .contact .fa-linkedin {
   width: 25px;
 }
 
